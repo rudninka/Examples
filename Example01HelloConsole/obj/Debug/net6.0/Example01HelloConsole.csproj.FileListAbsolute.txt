@@ -1,0 +1,15 @@
+E:\работа с vcode\eexamples\Example01HelloConsole\bin\Debug\net6.0\Example01HelloConsole.exe
+E:\работа с vcode\eexamples\Example01HelloConsole\bin\Debug\net6.0\Example01HelloConsole.deps.json
+E:\работа с vcode\eexamples\Example01HelloConsole\bin\Debug\net6.0\Example01HelloConsole.runtimeconfig.json
+E:\работа с vcode\eexamples\Example01HelloConsole\bin\Debug\net6.0\Example01HelloConsole.dll
+E:\работа с vcode\eexamples\Example01HelloConsole\bin\Debug\net6.0\Example01HelloConsole.pdb
+E:\работа с vcode\eexamples\Example01HelloConsole\obj\Debug\net6.0\Example01HelloConsole.csproj.AssemblyReference.cache
+E:\работа с vcode\eexamples\Example01HelloConsole\obj\Debug\net6.0\Example01HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\eexamples\Example01HelloConsole\obj\Debug\net6.0\Example01HelloConsole.AssemblyInfoInputs.cache
+E:\работа с vcode\eexamples\Example01HelloConsole\obj\Debug\net6.0\Example01HelloConsole.AssemblyInfo.cs
+E:\работа с vcode\eexamples\Example01HelloConsole\obj\Debug\net6.0\Example01HelloConsole.csproj.CoreCompileInputs.cache
+E:\работа с vcode\eexamples\Example01HelloConsole\obj\Debug\net6.0\Example01HelloConsole.dll
+E:\работа с vcode\eexamples\Example01HelloConsole\obj\Debug\net6.0\refint\Example01HelloConsole.dll
+E:\работа с vcode\eexamples\Example01HelloConsole\obj\Debug\net6.0\Example01HelloConsole.pdb
+E:\работа с vcode\eexamples\Example01HelloConsole\obj\Debug\net6.0\Example01HelloConsole.genruntimeconfig.cache
+E:\работа с vcode\eexamples\Example01HelloConsole\obj\Debug\net6.0\ref\Example01HelloConsole.dll
