@@ -1,0 +1,15 @@
+E:\работа с vcode\eexamples\Example04Div\bin\Debug\net6.0\Example04Div.exe
+E:\работа с vcode\eexamples\Example04Div\bin\Debug\net6.0\Example04Div.deps.json
+E:\работа с vcode\eexamples\Example04Div\bin\Debug\net6.0\Example04Div.runtimeconfig.json
+E:\работа с vcode\eexamples\Example04Div\bin\Debug\net6.0\Example04Div.dll
+E:\работа с vcode\eexamples\Example04Div\bin\Debug\net6.0\Example04Div.pdb
+E:\работа с vcode\eexamples\Example04Div\obj\Debug\net6.0\Example04Div.csproj.AssemblyReference.cache
+E:\работа с vcode\eexamples\Example04Div\obj\Debug\net6.0\Example04Div.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\eexamples\Example04Div\obj\Debug\net6.0\Example04Div.AssemblyInfoInputs.cache
+E:\работа с vcode\eexamples\Example04Div\obj\Debug\net6.0\Example04Div.AssemblyInfo.cs
+E:\работа с vcode\eexamples\Example04Div\obj\Debug\net6.0\Example04Div.csproj.CoreCompileInputs.cache
+E:\работа с vcode\eexamples\Example04Div\obj\Debug\net6.0\Example04Div.dll
+E:\работа с vcode\eexamples\Example04Div\obj\Debug\net6.0\refint\Example04Div.dll
+E:\работа с vcode\eexamples\Example04Div\obj\Debug\net6.0\Example04Div.pdb
+E:\работа с vcode\eexamples\Example04Div\obj\Debug\net6.0\Example04Div.genruntimeconfig.cache
+E:\работа с vcode\eexamples\Example04Div\obj\Debug\net6.0\ref\Example04Div.dll
