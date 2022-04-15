@@ -1,0 +1,15 @@
+E:\работа с vcode\eexamples\Example07Magic\bin\Debug\net6.0\Example07Magic.exe
+E:\работа с vcode\eexamples\Example07Magic\bin\Debug\net6.0\Example07Magic.deps.json
+E:\работа с vcode\eexamples\Example07Magic\bin\Debug\net6.0\Example07Magic.runtimeconfig.json
+E:\работа с vcode\eexamples\Example07Magic\bin\Debug\net6.0\Example07Magic.dll
+E:\работа с vcode\eexamples\Example07Magic\bin\Debug\net6.0\Example07Magic.pdb
+E:\работа с vcode\eexamples\Example07Magic\obj\Debug\net6.0\Example07Magic.csproj.AssemblyReference.cache
+E:\работа с vcode\eexamples\Example07Magic\obj\Debug\net6.0\Example07Magic.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\eexamples\Example07Magic\obj\Debug\net6.0\Example07Magic.AssemblyInfoInputs.cache
+E:\работа с vcode\eexamples\Example07Magic\obj\Debug\net6.0\Example07Magic.AssemblyInfo.cs
+E:\работа с vcode\eexamples\Example07Magic\obj\Debug\net6.0\Example07Magic.csproj.CoreCompileInputs.cache
+E:\работа с vcode\eexamples\Example07Magic\obj\Debug\net6.0\Example07Magic.dll
+E:\работа с vcode\eexamples\Example07Magic\obj\Debug\net6.0\refint\Example07Magic.dll
+E:\работа с vcode\eexamples\Example07Magic\obj\Debug\net6.0\Example07Magic.pdb
+E:\работа с vcode\eexamples\Example07Magic\obj\Debug\net6.0\Example07Magic.genruntimeconfig.cache
+E:\работа с vcode\eexamples\Example07Magic\obj\Debug\net6.0\ref\Example07Magic.dll
