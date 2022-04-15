@@ -1,0 +1,15 @@
+E:\работа с vcode\eexamples\Example02HelloUser\bin\Debug\net6.0\Example02HelloUser.exe
+E:\работа с vcode\eexamples\Example02HelloUser\bin\Debug\net6.0\Example02HelloUser.deps.json
+E:\работа с vcode\eexamples\Example02HelloUser\bin\Debug\net6.0\Example02HelloUser.runtimeconfig.json
+E:\работа с vcode\eexamples\Example02HelloUser\bin\Debug\net6.0\Example02HelloUser.dll
+E:\работа с vcode\eexamples\Example02HelloUser\bin\Debug\net6.0\Example02HelloUser.pdb
+E:\работа с vcode\eexamples\Example02HelloUser\obj\Debug\net6.0\Example02HelloUser.csproj.AssemblyReference.cache
+E:\работа с vcode\eexamples\Example02HelloUser\obj\Debug\net6.0\Example02HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\eexamples\Example02HelloUser\obj\Debug\net6.0\Example02HelloUser.AssemblyInfoInputs.cache
+E:\работа с vcode\eexamples\Example02HelloUser\obj\Debug\net6.0\Example02HelloUser.AssemblyInfo.cs
+E:\работа с vcode\eexamples\Example02HelloUser\obj\Debug\net6.0\Example02HelloUser.csproj.CoreCompileInputs.cache
+E:\работа с vcode\eexamples\Example02HelloUser\obj\Debug\net6.0\Example02HelloUser.dll
+E:\работа с vcode\eexamples\Example02HelloUser\obj\Debug\net6.0\refint\Example02HelloUser.dll
+E:\работа с vcode\eexamples\Example02HelloUser\obj\Debug\net6.0\Example02HelloUser.pdb
+E:\работа с vcode\eexamples\Example02HelloUser\obj\Debug\net6.0\Example02HelloUser.genruntimeconfig.cache
+E:\работа с vcode\eexamples\Example02HelloUser\obj\Debug\net6.0\ref\Example02HelloUser.dll
