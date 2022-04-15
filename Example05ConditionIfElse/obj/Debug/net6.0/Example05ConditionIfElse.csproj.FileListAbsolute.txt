@@ -1,0 +1,15 @@
+E:\работа с vcode\eexamples\Example05ConditionIfElse\bin\Debug\net6.0\Example05ConditionIfElse.exe
+E:\работа с vcode\eexamples\Example05ConditionIfElse\bin\Debug\net6.0\Example05ConditionIfElse.deps.json
+E:\работа с vcode\eexamples\Example05ConditionIfElse\bin\Debug\net6.0\Example05ConditionIfElse.runtimeconfig.json
+E:\работа с vcode\eexamples\Example05ConditionIfElse\bin\Debug\net6.0\Example05ConditionIfElse.dll
+E:\работа с vcode\eexamples\Example05ConditionIfElse\bin\Debug\net6.0\Example05ConditionIfElse.pdb
+E:\работа с vcode\eexamples\Example05ConditionIfElse\obj\Debug\net6.0\Example05ConditionIfElse.csproj.AssemblyReference.cache
+E:\работа с vcode\eexamples\Example05ConditionIfElse\obj\Debug\net6.0\Example05ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\eexamples\Example05ConditionIfElse\obj\Debug\net6.0\Example05ConditionIfElse.AssemblyInfoInputs.cache
+E:\работа с vcode\eexamples\Example05ConditionIfElse\obj\Debug\net6.0\Example05ConditionIfElse.AssemblyInfo.cs
+E:\работа с vcode\eexamples\Example05ConditionIfElse\obj\Debug\net6.0\Example05ConditionIfElse.csproj.CoreCompileInputs.cache
+E:\работа с vcode\eexamples\Example05ConditionIfElse\obj\Debug\net6.0\Example05ConditionIfElse.dll
+E:\работа с vcode\eexamples\Example05ConditionIfElse\obj\Debug\net6.0\refint\Example05ConditionIfElse.dll
+E:\работа с vcode\eexamples\Example05ConditionIfElse\obj\Debug\net6.0\Example05ConditionIfElse.pdb
+E:\работа с vcode\eexamples\Example05ConditionIfElse\obj\Debug\net6.0\Example05ConditionIfElse.genruntimeconfig.cache
+E:\работа с vcode\eexamples\Example05ConditionIfElse\obj\Debug\net6.0\ref\Example05ConditionIfElse.dll
