@@ -1,0 +1,15 @@
+E:\работа с vcode\eexamples\Example03Sum\bin\Debug\net6.0\Example03Sum.exe
+E:\работа с vcode\eexamples\Example03Sum\bin\Debug\net6.0\Example03Sum.deps.json
+E:\работа с vcode\eexamples\Example03Sum\bin\Debug\net6.0\Example03Sum.runtimeconfig.json
+E:\работа с vcode\eexamples\Example03Sum\bin\Debug\net6.0\Example03Sum.dll
+E:\работа с vcode\eexamples\Example03Sum\bin\Debug\net6.0\Example03Sum.pdb
+E:\работа с vcode\eexamples\Example03Sum\obj\Debug\net6.0\Example03Sum.csproj.AssemblyReference.cache
+E:\работа с vcode\eexamples\Example03Sum\obj\Debug\net6.0\Example03Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\eexamples\Example03Sum\obj\Debug\net6.0\Example03Sum.AssemblyInfoInputs.cache
+E:\работа с vcode\eexamples\Example03Sum\obj\Debug\net6.0\Example03Sum.AssemblyInfo.cs
+E:\работа с vcode\eexamples\Example03Sum\obj\Debug\net6.0\Example03Sum.csproj.CoreCompileInputs.cache
+E:\работа с vcode\eexamples\Example03Sum\obj\Debug\net6.0\Example03Sum.dll
+E:\работа с vcode\eexamples\Example03Sum\obj\Debug\net6.0\refint\Example03Sum.dll
+E:\работа с vcode\eexamples\Example03Sum\obj\Debug\net6.0\Example03Sum.pdb
+E:\работа с vcode\eexamples\Example03Sum\obj\Debug\net6.0\Example03Sum.genruntimeconfig.cache
+E:\работа с vcode\eexamples\Example03Sum\obj\Debug\net6.0\ref\Example03Sum.dll
